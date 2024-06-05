@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiVala
-- 👀 I’m interested in C/C++, python, Fortran
+- 👀 I’m interested in any language and already used C/C++, python, Fortran heavily.
 - 🌱 I’m currently learning as much as I can.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adi96 [ a t ] live.de
